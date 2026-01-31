@@ -1,0 +1,66 @@
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = '0.90.0'
+baseURL = "https://von-bismark.netlify.app/"
+languageCode = "en"
+title = "Bismarck"
+theme = "hugo-theme-terminal"
+paginate = 10
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "black"
+  showMenuItems = 10
+  fullWidthTheme = true
+  centerTheme = true
+  showLastUpdated = true
+
+[languages]
+
+  [languages.en]
+    languageName = "English"
+    title = "bismarck.log"
+    subtitle = "reversing / security"
+    owner = "Bismarck"
+    keywords = "reversing, security, exploit, ida"
+    readMore = "Read more"
+    readOtherPosts = "Other posts"
+
+    [languages.en.params.logo]
+      logoText = "Bismarck@:~$"
+      logoHomeLink = "/"
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts"
+  weight = 1
+
+[[menu.main]]
+  identifier = "study"
+  name = "Study"
+  url = "/study"
+  weight = 2
+
+[[menu.main]]
+  identifier = "ctf"
+  name = "CTF · Write Up"
+  url = "/ctf"
+  weight = 3
+
+[[menu.main]]
+  identifier = "wargame"
+  name = "Wargame"
+  url = "/wargame"
+  weight = 4
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about"
+  weight = 5
+
+
+[params.footer]
+  content = "©  Bismarck's · reversing blog"
+
