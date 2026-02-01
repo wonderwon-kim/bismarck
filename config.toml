@@ -63,4 +63,7 @@ paginate = 10
 
 [params.footer]
   content = "©  Bismarck's · reversing blog"
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
