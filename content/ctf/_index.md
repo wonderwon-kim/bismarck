@@ -1,3 +1,4 @@
 ---
-title: "Wargame"
+title: "CTF · Write Up"
+
 ---
