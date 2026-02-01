@@ -15,6 +15,7 @@ paginate = 10
   fullWidthTheme = true
   centerTheme = true
   showLastUpdated = true
+  favicon = "/favicon.png"
 
 [languages]
 
