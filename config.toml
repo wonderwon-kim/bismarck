@@ -20,10 +20,10 @@ paginate = 10
 
   [languages.en]
     languageName = "English"
-    title = "bismarck.log"
-    subtitle = "reversing / security"
+    title = "Bismarck"
+    subtitle = "Bismarck"
     owner = "Bismarck"
-    keywords = "reversing, security, exploit, ida"
+    keywords = "Bismarck"
     readMore = "Read more"
     readOtherPosts = "Other posts"
 
