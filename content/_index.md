@@ -15,7 +15,7 @@ title: ""
     border: none !important;
     box-shadow: none !important;
     padding: 0 !important;
-    font-size: 2em !important;
+    font-size: 2.5em !important;
     line-height: 1.2 !important;
 }
 </style>
@@ -30,3 +30,4 @@ title: ""
 ╚═════╝ ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
 </pre>
 </div>
+
