@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <div class="post">
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+  </div>
+
+  {{ if .Site.Params.ShowPostsOnHomePage }}
+    <div class="posts">
+      <div class="posts-group">
+        {{ range first 10 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+          {{ partial "post.html" . }}
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+{{ end }}
