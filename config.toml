@@ -2,7 +2,7 @@
   [module.hugoVersion]
     extended = true
     min = '0.90.0'
-baseURL = "https://von-bismark.netlify.app/"
+baseURL = "https://bismarck.davidbackhome1004.workers.dev/"
 languageCode = "en"
 title = "Bismarck"
 theme = "hugo-theme-terminal"
