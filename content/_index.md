@@ -3,7 +3,7 @@ title: ""
 ---
 
 <div style="text-align: center; margin: 2em 0;">
-<pre style="display: inline-block; text-align: left; background: transparent; border: none; box-shadow: none; padding: 0;">
+<pre style="display: inline-block; text-align: left; background: transparent; border: none; box-shadow: none; padding: 0; font-size: 2em;">
 ██████╗ ██╗███████╗███╗   ███╗ █████╗ ██████╗  ██████╗██╗  ██╗
 ██╔══██╗██║██╔════╝████╗ ████║██╔══██╗██╔══██╗██╔════╝██║ ██╔╝
 ██████╔╝██║███████╗██╔████╔██║███████║██████╔╝██║     █████╔╝ 
@@ -12,3 +12,4 @@ title: ""
 ╚═════╝ ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
 </pre>
 </div>
+
