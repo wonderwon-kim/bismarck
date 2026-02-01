@@ -2,8 +2,26 @@
 title: ""
 ---
 
-<div class="ascii-art" style="text-align: center; margin: 2em 0;">
-<pre style="display: inline-block; text-align: left;">
+<style>
+.home-ascii {
+    text-align: center;
+    margin: 3em 0;
+}
+.home-ascii pre {
+    display: inline-block !important;
+    text-align: left !important;
+    background: none !important;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    font-size: 2em !important;
+    line-height: 1.2 !important;
+}
+</style>
+
+<div class="home-ascii">
+<pre>
 ██████╗ ██╗███████╗███╗   ███╗ █████╗ ██████╗  ██████╗██╗  ██╗
 ██╔══██╗██║██╔════╝████╗ ████║██╔══██╗██╔══██╗██╔════╝██║ ██╔╝
 ██████╔╝██║███████╗██╔████╔██║███████║██████╔╝██║     █████╔╝ 
