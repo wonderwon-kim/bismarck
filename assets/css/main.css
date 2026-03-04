@@ -369,11 +369,6 @@ blockquote p:last-child {
 }
 
 table {
-  display: block;
-  max-width: 100%;
-  overflow-x: auto;
-  white-space: nowrap;
-  -webkit-overflow-scrolling: touch;
   table-layout: auto;
   border-collapse: collapse;
 }
